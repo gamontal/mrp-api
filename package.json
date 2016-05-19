@@ -1,0 +1,20 @@
+{
+  "name": "mrp-api",
+  "version": "0.0.1",
+  "description": "A NodeJS wrapper for NASA's Mars Rover Photos API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nasa",
+    "mars",
+    "api",
+    "rover"
+  ],
+  "author": "Gabriel Montalvo",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
