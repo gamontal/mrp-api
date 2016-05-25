@@ -1,4 +1,4 @@
-# mrp-api
+![](https://github.com/gmontalvoriv/mrp-api/blob/master/banner.jpg)
 
 > A simple NodeJS interface to [NASA's Mars Rover](https://api.nasa.gov/api.html#MarsPhotos) Photos API.
 
