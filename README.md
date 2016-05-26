@@ -2,7 +2,7 @@
 
 > A simple NodeJS interface to [NASA's Mars Rover Photos API](https://api.nasa.gov/api.html#MarsPhotos).
 
-### [DEMO](https://mrp-api.herokuapp.com/)
+### [DEMO](http://mrp-api.herokuapp.com/)
 
 ## Installation
 
