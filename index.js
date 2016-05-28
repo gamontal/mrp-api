@@ -18,7 +18,6 @@ const MRP_API = function (apiKey) {
 };
 
 (function () {
-
   var getPhotos = function (key, roverUrl, options, cb) {
 
     let url;
