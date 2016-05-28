@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/gmontalvoriv/mrp-api.svg?branch=master)](https://travis-ci.org/gmontalvoriv/mrp-api)
+[![npm version](https://img.shields.io/npm/v/mrp-api.svg?style=flat)](https://www.npmjs.com/package/mrp-api)
+[![Dependency Status](https://david-dm.org/gmontalvoriv/mrp-api.svg)](https://www.npmjs.com/package/mrp-api)
+
 ![](https://github.com/gmontalvoriv/mrp-api/blob/master/banner.jpg)
 
 > A simple NodeJS interface to [NASA's Mars Rover Photos API](https://api.nasa.gov/api.html#MarsPhotos).
