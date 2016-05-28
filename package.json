@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "A NodeJS wrapper for NASA's Mars Rover Photos API",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmontalvoriv/mrp-api.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,6 +18,10 @@
   ],
   "author": "Gabriel Montalvo",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmontalvoriv/mrp-api/issues"
+  },
+  "homepage": "https://github.com/gmontalvoriv/mrp-api#readme",
   "dependencies": {
     "xmlhttprequest": "^1.8.0"
   }
